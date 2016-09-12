@@ -2,12 +2,12 @@
     padding: 0;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
 }
 
-nav {
-    text-align: center;
-    border-bottom: 1px solid gray;
-    padding: 1.25em;
+h1 {
+    font-size: 32px;
+    margin:10px;
 }
 
 a, a:visited {
@@ -19,4 +19,31 @@ a, a:visited {
 a:hover {
     border-bottom: 1px dotted gray;
     color:black;
+}
+
+#content-wrapper {
+    margin:20px;
+}
+
+#main-content {
+    display:inline-block;
+}
+
+#headshot {
+    border-radius: 50%;
+    width:30%;
+    height:auto;
+    display:inline-block;
+    vertical-align: middle;
+}
+
+#header {
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding: 1.25em;
+    margin-bottom: 10px;
+}
+
+.center {
+    text-align: center
 }
