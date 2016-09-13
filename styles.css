@@ -16,11 +16,11 @@ h1 {
 
 h2 {
     font-size:1.75em;
-    margin-bottom: .3em;
 }
 
 h3 {
     font-size: 1.25em;
+    margin-top: .3em;
 }
 
 h4 {
@@ -65,8 +65,16 @@ a:hover {
     text-indent: 0;
 }
 
-#skills {
+.skills {
     margin-left: 3.2em;
+}
+
+#contact-imgs {
+    margin: 1em;
+}
+
+#contact-imgs a:hover {
+    border-bottom: none;
 }
 
 #content-wrapper {
