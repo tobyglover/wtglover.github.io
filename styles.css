@@ -47,14 +47,23 @@ a:hover {
     color:black;
 }
 
-ul {
+.no-bullets {
     list-style-type: none;
     margin-left: 5em;
 }
 
-li {
+.no-bullets li {
     margin: .2em 0;
     text-indent: -3em ;
+}
+
+.bullets {
+    list-style-type: initial;
+    margin-left:1.1em;
+}
+
+.bullets li {
+    text-indent: 0;
 }
 
 #content-wrapper {
