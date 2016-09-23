@@ -46,6 +46,10 @@ a:hover {
     color:black;
 }
 
+#pdf_link {
+    padding-top: 10px;
+}
+
 .no-bullets {
     list-style-type: none;
     margin-left: 5em;
