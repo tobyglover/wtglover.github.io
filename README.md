@@ -1,3 +1,3 @@
 # wtglover.github.io
 
-Standard redirect to personal site: [tobyglover.com](tobyglover.com)
+Standard redirect to personal site: [tobyglover.com](http://tobyglover.com)
